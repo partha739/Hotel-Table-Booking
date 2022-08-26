@@ -1,0 +1,138 @@
+*{margin:0px;padding:0px;}
+
+.container-fluid{padding-right:0px;padding-left:0px;}
+.row{margin-right:10px;margin-left:10px;}
+.col-lg-12{padding-left:0px;padding-right:0px;}
+.nav-item
+{
+	padding-left: 15px;
+	font-family:"nunito sans",sans-serif;
+	font-size: 18px;
+}
+.nav-link
+{
+	color:#0e0a05;
+	
+}
+.nav2
+{
+	
+	margin-left: 650px;
+}
+.showall
+{
+	margin-top:10px;
+
+}
+.hcard
+{
+	padding-left: 300px;
+}
+.fa1
+{
+	margin-top: 10px;
+	margin-left: 5px;
+}
+.fa2
+{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.fa3
+{
+	margin-top: 10px;
+	margin-left: 5px;
+}
+.bottom-cont
+{
+	margin-top: 30px;
+	background-color: black;
+	height:auto;
+	width:100%;
+	color:aliceblue;
+	padding:30px;
+}
+a:hover {
+ color:#f68804;
+}
+.innercardimg
+{
+	background-image: url("https://d23ynomj6u3eig.cloudfront.net/sites/default/files/2022-01/hero%20banner%20810x490%20eat%20drink%20repeat.jpg");
+	color:aliceblue;
+	height:200px;
+	width:90%;
+	background-size:cover;
+	padding:20px;
+	padding-top: 10px;
+	margin-top:40px;
+	margin-left: 10px;
+	}
+	.innercardimg .btn{margin-top:100px;
+background-color:#f68804;
+	border-radius: 20px;
+	color:white;
+}
+.innercardimg1
+{
+	background-image: url("https://d23ynomj6u3eig.cloudfront.net/sites/default/files/2022-04/happiness%20gift%20card_3.png");
+		color:aliceblue;
+	height:200px;
+	width:90%;
+	background-size:cover;
+	padding:20px;
+	padding-top: 10px;
+	margin-top:40px;
+	margin-left: 10px;
+}
+.bottom-cont
+{
+	margin-top: 30px;
+	background-color: black;
+	height:auto;
+	width:100%;
+	color:aliceblue;
+	padding:30px;
+}
+a:hover {
+ color:#f68804;
+}
+
+	.innercardimg1 .btn{margin-top:100px;
+background-color:#f68804;
+	border-radius: 20px;
+	color:white;
+}
+.innercardimg2
+{
+	background-image:url("https://d23ynomj6u3eig.cloudfront.net/sites/default/files/2022-04/Happiness%20card_%20April%202022-01.jpg");
+			color:aliceblue;
+	height:200px;
+	width:90%;
+	background-size:cover;
+	padding:20px;
+	padding-top: 10px;
+	margin-top:40px;
+	margin-left: 10px;
+	}
+	.innercardimg2 .btn{margin-top:100px;
+background-color:#f68804;
+	border-radius: 20px;
+	color:white;
+}
+.innercardimg3
+{
+	background-image: url("https://d23ynomj6u3eig.cloudfront.net/sites/default/files/2019-11/1.%20gallery%20857x491.jpg");
+				color:aliceblue;
+	height:200px;
+	width:90%;
+	background-size:cover;
+	padding:20px;
+	padding-top: 10px;
+	margin-top:40px;
+	margin-left: 10px;
+	}
+	.innercardimg3 .btn{margin-top:100px;
+background-color:#f68804;
+	border-radius: 20px;
+	color:white;
+}

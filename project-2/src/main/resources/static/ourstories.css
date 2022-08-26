@@ -1,0 +1,41 @@
+.container-fluid
+{
+	width:100%;
+}
+.imgb
+{
+	width:80%;
+	margin-top: 20px;
+	margin-left: 40px;
+	height:auto;
+}
+.head
+{
+	padding-left: 20px;
+	
+}
+.para
+{
+	padding-left:20px;
+	font-size: 20px;
+}
+.caro
+{
+	background-color:blanchedalmond;
+	width:100%;
+	margin-top: 20px;
+	padding-left: 25%;
+}
+.imga
+{
+	width:100%;
+	height:auto;
+}
+.aw1
+{
+	width:70%;
+}
+.awards
+{
+	margin-top: 30px;
+}

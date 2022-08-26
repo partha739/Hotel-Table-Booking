@@ -1,0 +1,88 @@
+.card
+{
+	margin-top:50px;
+	width:500px;
+	border-style:solid;
+	border-radius: 30px;
+	margin-left: 300px;
+	border-color:antiquewhite
+	
+}
+.page
+{
+	text-align: center;
+}
+
+label{
+  padding: 10px 10px 10px ;
+  display: inline-block;
+ 
+}
+.mobiletext
+{
+	text-align: left;
+	margin-left: 100px;
+}
+.mobilebox
+{
+
+	background-color:#f4efee;
+	margin-left: 90px;
+	margin-right: 90px;
+	border-radius: 40px;
+	padding:14px;
+	text-align: left;
+	border:none;
+	outline:none;
+}
+.button
+{
+	margin-top: 20px;
+	margin-left: 90px;
+	margin-right: 90px;
+	background-color: #ffa167;
+	border-radius: 40px;
+	color:aliceblue;
+	padding:8px;
+}
+.numberbox
+{
+	background-color:#f4efee;
+	border:none;
+	outline:none;
+}
+option
+{
+	background-color:azure;
+}
+.ikons
+{
+	margin-top: 70px;
+	
+}
+.fbikon
+{
+	margin-right: 20px;
+	border-style: solid;
+	border-radius: 20px;
+	padding:10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	border-color:#e2e2e2;
+}
+.gikon
+{
+	margin-left: 20px;
+	border-style: solid;
+	border-radius: 20px;
+	padding:10px;
+	border-color:#e2e2e2;
+	padding-left: 30px;
+	padding-right: 30px;
+	
+}
+a
+{
+	text-decoration: none;
+	color:blue;
+}

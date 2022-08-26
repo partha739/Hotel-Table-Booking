@@ -1,0 +1,316 @@
+*{margin:0px;padding:0px;}
+
+.container-fluid{padding-right:0px;padding-left:0px;}
+.row{margin-right:10px;margin-left:10px;}
+.col-lg-12{padding-left:0px;padding-right:0px;}
+.nav-item
+{
+	padding-left: 15px;
+	font-family:"nunito sans",sans-serif;
+	font-size: 18px;
+}
+.nav-link
+{
+	color:#0e0a05;
+}
+.fa1
+{
+	margin-top: 10px;
+	margin-left: 5px;
+}
+.fa2
+{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.fa3
+{
+	margin-top: 10px;
+	margin-left: 5px;
+}
+
+.banner_bg{width:100%;float:left;
+background:url('https://www.xmple.com/wallpaper/spots-polka-orange-dots-1920x1080-c2-de5509-fb5d06-l2-35-52-a-315-f-3.svg');
+background-size:cover;min-height:700px;
+position:relative;
+}
+.banner_bg1
+{
+width:100%;float:left;
+margin-top: 20px;
+}
+.color
+{
+	background-color:#ea5607;
+	border-radius: 10px;
+	color:aliceblue
+}
+.innercardimg
+{
+	background-image: url("https://d23ynomj6u3eig.cloudfront.net/sites/default/files/2022-01/hero%20banner%20810x490%20eat%20drink%20repeat.jpg");
+	height:600px;
+	width:100%;
+	background-size:cover;
+	padding:20px;
+	margin-top:70px;
+	margin-left: 30px;
+}
+
+.innercardimg .btn{margin-top:400px;
+background-color:#f68804;
+	border-radius: 20px;
+	color:white;
+	margin-left: 20px;
+}
+.card1
+{
+	background-color: white;
+	margin-right: 50px;
+	margin-top: 60px;
+	margin-left: 30px;
+	margin-bottom: 30px;
+	 width: 70%;
+  height: 600px;
+  border-radius: 20px;
+  padding-top: 20px;
+  background-size:cover;
+  padding-left: 20px;
+  position:relative;
+ }
+ .p1
+ {
+	font-size: 40px;
+}
+ 
+.h
+{
+	padding-left: 10px;
+	padding-top:10px;
+}
+.p1
+{
+	padding-left: 10px;
+	font-size: 20px;
+}
+.date
+{
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.location
+{
+	margin-left: 20px;
+	margin-top: 10px;
+	
+}
+.day
+{
+	border-style:solid;
+	border-color:#ea5607 ;
+	padding:6px;
+	border-radius: 10px;
+	border-width: 2px;
+	font-size: 14px;
+	width:max-content;
+	margin:4px;
+	color:#0e0a05;
+}
+.day1
+{
+	border-style:solid;
+	border-color:#ea5607 ;
+	padding:6px;
+	border-radius: 10px;
+	border-width: 2px;
+	font-size: 14px;
+	margin:4px;
+	color:#0e0a05;
+	width:max-content;
+}
+.select
+{
+	margin:5px;
+}
+.time
+{
+	border-style:solid;
+	border-color:#ea5607 ;
+	padding:6px;
+	border-radius: 10px;
+	border-width: 2px;
+	font-size: 14px;
+	width:max-content
+	
+	
+}
+.time1
+{
+	margin-left: 7px;
+	margin-right: 7px;
+	border-style:solid;
+	border-color:#ea5607 ;
+	padding:5px;
+	border-radius: 10px;
+	border-width: 2px;
+	font-size: 14px;
+	width:max-content;
+}
+.Session
+{
+	margin-left: 5px;
+	margin-top: 20px;
+}
+.himg1
+{
+	background-image: url("https://d23ynomj6u3eig.cloudfront.net/sites/default/files/2022-04/happiness%20gift%20card_1.png");
+	background-size:cover;
+	padding-left: 40px;
+	width:80%;
+	height:40vh;
+	padding-top: 10px;
+}
+.hcard1
+{
+	background-color: white;
+	color:#0e0a05;
+	width:120px;
+	padding-left: 10px;
+	padding-top: 10px;
+	margin-top: 30px;
+	border-radius: 20px;
+}
+.happiness-card
+{
+	padding-right: 70px;
+	height:50vh;
+
+}
+.btn1
+{
+	background-color:#ea5607;
+	border-radius: 20px;
+	margin-top: 20px;
+	color:white;
+	margin-bottom: 20px;
+}
+.himg2
+{
+	background-image: url("https://d23ynomj6u3eig.cloudfront.net/sites/default/files/2022-04/happiness%20gift%20card_1.png");
+	padding-left: 20px;
+	padding-right: 20px;
+	width:80%;
+	height:40vh;
+	padding-top: 10px;
+}
+.himg3
+{
+	background-image: url("https://qph.cf2.quoracdn.net/main-qimg-6dfc871123ca6b9b070d1c6576048903-lq");
+	padding-left: 20px;
+	padding-right: 20px;
+	width:80%;
+	height:40vh;
+	padding-top: 10px;
+}
+.BBQ1
+{
+	
+	padding-left: 20px;
+	margin-left: 20px;
+	width:80%;
+	height:50vh;
+	
+}
+.BBQ2
+{
+	padding-left: 20px;
+	margin-left: 20px;
+	padding-right: 20px;
+	width:80%;
+	height:50vh;
+}
+.BBQ3
+{
+	
+	padding-left: 20px;
+	margin-left: 20px;
+	padding-right: 20px;
+	width:80%;
+	height:50vh;
+}
+.news
+{
+	padding-left: 20px;
+	margin-left: 20px;
+	width:80%;
+	height:42vh;
+}
+.news1
+{
+	
+	padding-left: 20px;
+	margin-left: 20px;
+	width:80%;
+	height:50vh;
+	
+}
+.news2
+{
+	padding-left: 20px;
+	padding-right: 20px;
+	width:80%;
+	height:50vh;
+}
+.news3
+{
+	padding-left: 20px;
+	padding-right: 20px;
+	width:80%;
+	height:50vh;
+}
+.bottom-cont
+{
+	margin-top: 30px;
+	background-color: black;
+	height:auto;
+	width:100%;
+	color:aliceblue;
+	padding:30px;
+}
+a:hover {
+ color:#f68804;
+}
+h5
+{
+	padding-left: 70%;
+}
+.ltd
+{
+	padding-top: 20px;
+	padding-left: 30px;
+	
+}
+.fbikon
+{
+	padding-left: 10px;
+}
+.pdate
+{
+	font-size: 20px;
+}
+a
+{
+	color:#0e0a05;
+}
+.book
+{
+	margin:40px 200px;
+	color:aliceblue;
+	background-color:#ea5607 ;
+	border-radius: 10px;
+}
+@media only screen and (max-width: 1000px) {
+  .card1 {
+    display:none;
+  }
+}
+

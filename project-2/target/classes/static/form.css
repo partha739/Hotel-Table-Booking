@@ -1,0 +1,66 @@
+*{margin:0px;padding:0px;}
+
+.container-fluid{padding-right:0px;padding-left:0px;}
+.row{margin-right:10px;margin-left:10px;}
+.col-lg-12{padding-left:0px;padding-right:0px;}
+
+.form{
+  text-align: center;
+  width:70%;
+  font-weight: bolder;
+  margin:auto;
+  background-color: gainsboro;
+  border-radius: 20px;
+  margin-top: 20vh;
+  height:max-content;
+  }
+  select
+  {
+	border-top-width: 0px;
+	text-align: center;
+}
+  .logo
+  {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	height:80px;
+	background-color: #ea5607;
+}
+.select-location
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+	
+}
+.prodid
+{
+		margin-top: 10px;
+	margin-bottom: 10px;
+}
+.prodname
+{
+		margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+.prodprice
+{
+		margin-top: 10px;
+	margin-bottom: 10px;
+	
+}
+.prodimage
+{
+		margin-top: 10px;
+	margin-bottom: 10px;
+	
+	
+}
+@media only screen and (max-width:760px)
+{
+	input [type="file"]{
+		width:10px;
+		font-size: 10px;
+	}
+}
